@@ -11,3 +11,6 @@ Health Check
 ---
 
 To see your applications health enter url `http://localhost:8081/healthcheck`
+
+
+This program is a copy - practice version from the website `https://howtodoinjava.com/dropwizard/tutorial-and-hello-world-example/`
